@@ -1,0 +1,73 @@
+{
+  "name": "scarlet script",
+  "description": "dark mod created by https://discord.gg/pTmc8uEqJr",
+  "version": "2.0",
+  "authors": [
+    {
+      "name": "https://discord.gg/pTmc8uEqJr",
+      "id": "https://discord.gg/pTmc8uEqJr"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": ["#e63946"],
+    "CHAT_BACKGROUND": ["#181818"],
+    "HEADER_PRIMARY": ["#e63946"],
+    "HEADER_SECONDARY": ["#f1faee"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#a8dadc"],
+    "INTERACTIVE_NORMAL": ["#e63946"],
+    "INTERACTIVE_HOVER": ["#f1faee"],
+    "INTERACTIVE_ACTIVE": ["#d62839"],
+    "INTERACTIVE_MUTED": ["#999999"],
+    "BACKGROUND_PRIMARY": ["#0b0b0b"],
+    "CARD_PRIMARY_BG": ["#232323"],
+    "BACKGROUND_SECONDARY": ["#242424"],
+    "CARD_SECONDARY_BG": ["#2f2f2f"],
+    "BACKGROUND_ACCENT": ["#e63946"],
+    "BACKGROUND_TERTIARY": ["#1e1e1e"],
+    "BACKGROUND_MESSAGE_HOVER": ["#e6394610"],
+    "BACKGROUND_MODIFIER_HOVER": ["#e639461a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#e6394629"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#e639460d"],
+    "TEXT_PRIMARY": ["#f8f8f8"],
+    "TEXT_LINK": ["#f1faee"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#e63946",
+    "PRIMARY_200": "#d62839",
+    "PRIMARY_300": "#ffffff",
+    "PRIMARY_400": "#a8dadc",
+    "PRIMARY_500": "#f1faee",
+    "PRIMARY_600": "#2c2c2c",
+    "BACKGROUND_MODIFIER": "#2a2a34",
+    "BACKGROUND_LIGHT": "#0b0b0b",
+    "TEXT_RED": "#e63946",
+    "TEXT_WHITE": "#ffffff",
+    "ACCENT_RED": "#f1faee",
+    "ACCENT_HOVER": "#e63946"
+  },
+  "background": {
+    "blur": 0.15,
+    "url": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/Scarlet.webp",
+    "position": "center",
+    "size": "cover",
+    "overlay": "#00000070"
+  },
+  "plus": {
+    "version": "1",
+    "mentionLineColor": "#e63946",
+    "customOverlays": true,
+    "icons": {
+      "ic_radio_circle_checked": "#e63946",
+      "ic_radio_square_checked_24px": "#f1faee",
+      "StatusMobileOnline": "#e63946",
+      "StatusOnline": "#f1faee"
+    }
+  },
+  "fonts": {
+    "Roboto-Bold": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlvAw.ttf",
+    "Roboto-Medium": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Me5Q.ttf",
+    "Roboto-Regular": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu4mxP.ttf"
+  },
+  "spec": 2
+}
